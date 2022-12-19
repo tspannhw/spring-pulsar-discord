@@ -3,7 +3,7 @@
 Spring - Pulsar Application to send messages to Discord
 
 
-![image](/images/springpulsardiscord2.png)
+![diagram](https://raw.githubusercontent.com/tspannhw/spring-pulsar-discord/main/images/springpulsardiscord2.png)
 
 ### Send Message
 
